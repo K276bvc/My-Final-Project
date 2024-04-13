@@ -67,7 +67,7 @@ window.onload = function() {
   // Remove the message box after secs
   setTimeout(function() {
       messageBox.parentNode.removeChild(messageBox);
-  }, 12000);
+  }, 9000);
 };
 
 
